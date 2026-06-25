@@ -17,12 +17,12 @@ executive dashboard.
 driven by an excessively high average discount rate (29%) — suggesting the business should
 enforce category-level discount controls rather than a uniform policy.
 
-![Executive Overview](01-powerbi-superstoredashboard-page1-overview.jpg)
-![Geographic Analysis](01-powerbi-superstoredashboard-page2-geographic.jpg)
-![Products Analysis](01-powerbi-superstoredashboard-page3-products.jpg)
-![Operation Analysis](01-powerbi-superstoredashboard-page4-operation.jpg)
+![Executive Overview](01-powerbi-superstore/page1-overview.jpg)
+![Geographic Analysis](01-powerbi-superstore/page2-geographic.jpg)
+![Products Analysis](01-powerbi-superstore/page3-products.jpg)
+![Operation Analysis](01-powerbi-superstore/page4-operation.jpg)
 
-📁 [Download .pbix file](Dashboard_SuperStore.pbix) — open with free Power BI Desktop for full interactivity.
+📁 [Download .pbix file](01-powerbi-superstore/Dashboard.pbix) — open with free Power BI Desktop for full interactivity.
 
 ---
 
@@ -31,7 +31,7 @@ enforce category-level discount controls rather than a uniform policy.
 Wrote advanced SQL queries using CTEs, ROW_NUMBER(), and CASE WHEN statements to analyze
 e-commerce customer behavior and tag product segments by sales velocity.
 
-📁 [View SQL queries](02-sql-ecommerce/customer-analysis-queries.sql)
+📁 [View SQL queries](02-sql-ecommerce-customer.docx)
 
 ---
 
@@ -41,7 +41,7 @@ Built a Machine Learning classification model to predict bank customer churn bas
 behavioral and transactional data. Performed feature engineering, model training, and
 evaluation on Google Colab.
 
-📁 [View Jupyter Notebook](03-python-churn-prediction_churn-prediction.ipynb)
+📁 [View Jupyter Notebook](03-python-churn-prediction.ipynb)
 
 ---
 
