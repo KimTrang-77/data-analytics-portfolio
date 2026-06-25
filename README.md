@@ -29,7 +29,7 @@ enforce category-level discount controls rather than a uniform policy.
 ## Project 2: SQL Server — E-commerce Customer Segmentation & Behavior Analysis
 
 Wrote advanced SQL queries using CTEs, ROW_NUMBER(), and CASE WHEN statements to analyze
-e-commerce customer behavior and tag product segments by sales velocity (Short/Mid/Long Tail).
+e-commerce customer behavior and tag product segments by sales velocity.
 
 📁 [View SQL queries](02-sql-ecommerce/customer-analysis-queries.sql)
 
