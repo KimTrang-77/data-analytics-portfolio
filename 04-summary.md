@@ -8,10 +8,10 @@ Analyzed 51,290 transaction records from SuperStore Orders (2011–2014, 7 globa
 
 **Key insight:** The Tables sub-category was the only one operating at a loss (-8.47% margin), driven by an excessively high average discount rate (29%) — suggesting the business should enforce category-level discount controls rather than a uniform policy.
 
-![Executive Overview](01-powerbi-superstore/page1-overview.jpg)
-![Geographic Analysis](01-powerbi-superstore/page2-geographic.jpg)
-![Products Analysis](01-powerbi-superstore/page3-products.jpg)
-![Operation Analysis](01-powerbi-superstore/page4-operation.jpg)
+![Executive Overview](01-powerbi-superstore/page1_overview.jpg)
+![Geographic Analysis](01-powerbi-superstore/page2_geographic.jpg)
+![Products Analysis](01-powerbi-superstore/page3_products.jpg)
+![Operation Analysis](01-powerbi-superstore/page4_operation.jpg)
 
 📁 [Download .pbix file](01-powerbi-superstore/Dashboard.pbix) — open with free Power BI Desktop for full interactivity.
 
@@ -21,8 +21,8 @@ Analyzed 51,290 transaction records from SuperStore Orders (2011–2014, 7 globa
 
 Utilized Python (Pandas, Numby) on Google Colab, Power BI to analyze and visualize a 630K+ TikiNow order dataset, pinpointing last-mile bottlenecks (85% of lead-time) and system errors (8.4%) to propose an optimized SLA improvement plan.
 
-📁 [View Report Tiki](02-python-pbi/tikinow-report.pdf)
-📁 [View Colab Notebook](02-python-pbi/tikinow-eda.ipynb)
+📁 [View Report Tiki](02-python-pbi/tikinow_report.pdf)
+📁 [View Colab Notebook](02-python-pbi/tikinow_eda.ipynb)
 
 ---
 
