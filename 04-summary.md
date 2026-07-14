@@ -8,12 +8,8 @@ Analyzed 51,290 transaction records from SuperStore Orders (2011–2014, 7 globa
 
 **Key insight:** The Tables sub-category was the only one operating at a loss (-8.47% margin), driven by an excessively high average discount rate (29%) — suggesting the business should enforce category-level discount controls rather than a uniform policy.
 
-![Executive Overview](01-powerbi-superstore/page1_overview.jpg)
-![Geographic Analysis](01-powerbi-superstore/page2_geographic.jpg)
-![Products Analysis](01-powerbi-superstore/page3_products.jpg)
-![Operation Analysis](01-powerbi-superstore/page4_operation.jpg)
-
-📁 [Download .pbix file](01-powerbi-superstore/Dashboard.pbix) — open with free Power BI Desktop for full interactivity.
+📁 [View Dashboard](01-powerbi-superstore/dashboard.pdf)
+📁 [Download .pbix file](01-powerbi-superstore/dashboard.pbix) — open with free Power BI Desktop for full interactivity.
 
 ---
 
