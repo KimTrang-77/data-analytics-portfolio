@@ -1,4 +1,4 @@
-# Data Analytics Portfolio — Kim Thị Thanh Trang
+# Data Analysis Portfolio — Kim Thị Thanh Trang
 
 ## Project 1: Power BI Dashboard — Global Sales Performance Analysis
 
