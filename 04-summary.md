@@ -1,21 +1,12 @@
-# Data Analytics Portfolio — Kim Thi Thanh Trang
-
-13+ years of Accounting & Financial Analysis experience, transitioning into Data Analytics.
-This repository showcases hands-on projects in Power BI, SQL, and Python completed during
-the AI-Driven Data Analytics program at MindX Technology School.
----
+# Data Analytics Portfolio — Kim Thị Thanh Trang
 
 ## Project 1: Power BI Dashboard — Global Sales Performance Analysis
 
-Analyzed 51,290 transaction records from SuperStore Orders (2011–2014, 7 global markets).
-Designed a star schema data model, built optimized DAX measures, and created a 4-page
-executive dashboard.
+Analyzed 51,290 transaction records from SuperStore Orders (2011–2014, 7 global markets). Designed a star schema data model, built optimized DAX measures, and created a 4-page executive dashboard.
 
 **Key metrics:** Revenue $12.64M | Profit $1.47M | Profit Margin 11.62%
 
-**Key insight:** The Tables sub-category was the only one operating at a loss (-8.47% margin),
-driven by an excessively high average discount rate (29%) — suggesting the business should
-enforce category-level discount controls rather than a uniform policy.
+**Key insight:** The Tables sub-category was the only one operating at a loss (-8.47% margin), driven by an excessively high average discount rate (29%) — suggesting the business should enforce category-level discount controls rather than a uniform policy.
 
 ![Executive Overview](01-powerbi-superstore/page1-overview.jpg)
 ![Geographic Analysis](01-powerbi-superstore/page2-geographic.jpg)
@@ -28,20 +19,18 @@ enforce category-level discount controls rather than a uniform policy.
 
 ## Project 2: SQL Server — E-commerce Customer Segmentation & Behavior Analysis
 
-Wrote advanced SQL queries using CTEs, ROW_NUMBER(), and CASE WHEN statements to analyze
-e-commerce customer behavior and tag product segments by sales velocity.
+Wrote advanced SQL queries using CTEs, ROW_NUMBER(), and CASE WHEN statements to analyze e-commerce customer behavior and tag product segments by sales velocity.
 
 📁 [View SQL queries](02-sql-ecommerce-customer.docx)
 
 ---
 
-## Project 3: Python — Bank Customer Churn Prediction
+## Project 3: Python & Power BI – Assessing the operational health of TikiNow
 
-Built a Machine Learning classification model to predict bank customer churn based on
-behavioral and transactional data. Performed feature engineering, model training, and
-evaluation on Google Colab.
+Utilized Python (Pandas, Numby) on Google Colab, Power BI to analyze and visualize a 630K+ TikiNow order dataset, pinpointing last-mile bottlenecks (85% of lead-time) and system errors (8.4%) to propose an optimized SLA improvement plan.
 
-📁 [View Jupyter Notebook](03-python-churn-prediction.ipynb)
+📁 [View Report Tiki](03-python-pbi/tikinow-report.pdf)
+📁 [View Colab Notebook](03-python-pbi/tikinow-eda.ipynb)
 
 ---
 
