@@ -1,4 +1,4 @@
-# Data Analysis Portfolio — Kim Thị Thanh Trang
+# Data Analytics Portfolio — Kim Thị Thanh Trang
 
 ## Project 1: Power BI Dashboard — Global Sales Performance Analysis
 
@@ -8,8 +8,8 @@ Analyzed 51,290 transaction records from SuperStore Orders (2011–2014, 7 globa
 
 **Key insight:** The Tables sub-category was the only one operating at a loss (-8.47% margin), driven by an excessively high average discount rate (29%) — suggesting the business should enforce category-level discount controls rather than a uniform policy.
 
-📁 [View Dashboard](01-powerbi-superstore/dashboard.pdf)
-📁 [Download .pbix file](01-powerbi-superstore/dashboard.pbix) — open with free Power BI Desktop for full interactivity.
+📁 [View Dashboard](01-powerbi-superstore/Report_Dashboard.pdf)
+📁 [Download .pbix file](01-powerbi-superstore/PBI_Dashboard.pbix) — open with free Power BI Desktop for full interactivity.
 
 ---
 
